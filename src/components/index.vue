@@ -1,6 +1,6 @@
 <template>
   <p>
-    Congratulations on burning 1£ you idiot.
+    Congratulations on burning £1 you idiot.
   </p>
 </template>
 
