@@ -1,0 +1,6 @@
+{
+	"appId": "bjerke.tek.donotbuyme",
+	"appName": "Do not buy me",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
